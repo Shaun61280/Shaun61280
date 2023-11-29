@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shaun61280
 - 👀 I’m interested in: Coding and making my own projects. 
 - 🌱 I’m currently learning: Python, C#, C++, 
-- 💞️ I’m looking to collaborate on: N/A
-- 📫 How to reach me: N/A
+- 💞️ I’m looking to collaborate on: update this soon!!
+- 📫 How to reach me: update this soon!!
 
 <!---
 Shaun61280/Shaun61280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
